@@ -17,3 +17,9 @@ help and documentation for using github itself
 * https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 * https://help.github.com/articles/github-flavored-markdown#syntax-highlighting
 
+### CSV files
+
+When viewed, any .csv or .tsv file committed to a GitHub repository automatically renders as an interactive table, complete with headers and row numbering. By default, we'll always assume the first row is your header row.
+
+You can link to a particular row by clicking the row number, or select multiple rows by holding down the shift key. Just copy the URL and send it to a friend.
+
