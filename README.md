@@ -3,6 +3,10 @@
 
 help and documentation for using github itself
 
+### linking
+* link to specific line in specific file
+    * https://github.com/dreftymac/pleac.plus/blob/master/config/core.concepts.csv#L58-59
+
 ## search
 
 * https://github.com/search/advanced?q=advanced+search&ref=cmdform&type=Repositories
