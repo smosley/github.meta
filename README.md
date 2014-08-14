@@ -4,6 +4,10 @@ This project is a non-curated repository relating to github itself.
 
 ## github.faves
 
+### Start here
+
+* https://github.com/dreftymac?tab=repositories
+
 ### Favorite projects
 
 * https://github.com/atom/atom
