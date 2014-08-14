@@ -19,8 +19,6 @@ This project is a non-curated repository relating to github itself.
 
 help and documentation for using github itself
 
-
-
 ### linking
 * link to specific line in specific file
     * https://github.com/dreftymac/pleac.plus/blob/master/config/core.concepts.csv#L58-59
@@ -28,6 +26,7 @@ help and documentation for using github itself
 ### markdown
 
 * https://help.github.com/articles/writing-on-github
+* https://help.github.com/articles/github-flavored-markdown
 
 ### search
 
