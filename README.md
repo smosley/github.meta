@@ -1,5 +1,13 @@
-## github.help
+## github.faves
 
+### Favorite projects
+
+* https://github.com/atom/atom
+
+### Favorite resources
+
+
+## github.help
 
 help and documentation for using github itself
 
