@@ -3,6 +3,7 @@
 This project is a non-curated repository relating to github itself.
 
 * https://github.com/dreftymac?tab=repositories
+* https://help.github.com/
 
 ## github.faves
 
