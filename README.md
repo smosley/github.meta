@@ -2,11 +2,10 @@
 
 This project is a non-curated repository relating to github itself.
 
+* https://github.com/dreftymac?tab=repositories
+
 ## github.faves
 
-### Start here
-
-* https://github.com/dreftymac?tab=repositories
 
 ### Favorite projects
 
