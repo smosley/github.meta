@@ -1,3 +1,7 @@
+# github.meta
+
+This project is a non-curated repository relating to github itself.
+
 ## github.faves
 
 ### Favorite projects
