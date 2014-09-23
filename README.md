@@ -5,6 +5,11 @@ This project is a non-curated repository relating to github itself.
 * https://github.com/dreftymac?tab=repositories
 * https://help.github.com/
 
+## keyboard shortcuts
+
+* https://mac.github.com/help
+* 
+
 ## github.faves
 
 
