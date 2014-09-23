@@ -8,7 +8,6 @@ This project is a non-curated repository relating to github itself.
 ## keyboard shortcuts
 
 * https://mac.github.com/help
-* 
 
 ## github.faves
 
